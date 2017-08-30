@@ -53,10 +53,10 @@ inputs:
   - source_file_path: Specify source file path
     opts:
       title: "Source file path"
-      is_expand: false
+      is_expand: true
       is_required: true
   - destination_file_path: Specify destination file path
     opts:
       title: "Destination file path"
-      is_expand: false
+      is_expand: true
       is_required: true  
