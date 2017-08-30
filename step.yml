@@ -10,7 +10,7 @@
 title: |-
   copy-file
 summary: |
-  Step to copy a file from one folder to another. You can use this for copying configuration files fromm archived location to a specific directory in the workspace.
+  Step to copy a file from one folder to another. 
 description: |
   Step to copy a file from one folder to another. You can use this for copying configuration files from archived location to a specific directory in the workspace.
 website: https://github.com/satyasrikantmantha/bitrise-step-copy-file
